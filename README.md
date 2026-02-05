@@ -48,15 +48,6 @@ Este projeto foi construído com foco em performance, escalabilidade e experiên
   - `add_2_calendar`: Integração nativa.
   - `share_plus` & `file_picker`: Manipulação de arquivos de backup.
 
----
-
-## 📸 Capturas de Tela
-
-| Dashboard | Novo Orçamento | Histórico & Status |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/dashboard.png" width="200"> | <img src="assets/screenshots/orcamento.png" width="200"> | <img src="assets/screenshots/historico.png" width="200"> |
-
-*(Nota: Imagens ilustrativas do projeto rodando em ambiente Android)*
 
 ---
 
