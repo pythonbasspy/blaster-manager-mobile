@@ -1,0 +1,11 @@
+lib/
+├── database/
+│   └── database_helper.dart      <-- Gerencia o SQLite
+├── models/
+│   ├── produto.dart              <-- Modelo do Item de Estoque
+│   └── orcamento.dart            <-- Modelo do Orçamento (Cálculos)
+├── screens/
+│   ├── dashboard_screen.dart     <-- Tela Inicial
+│   ├── inventario_screen.dart    <-- Tela de Cadastro de Produtos
+│   └── novo_orcamento_screen.dart <-- Tela de Cálculo (Faremos no próximo passo)
+└── main.dart                     <-- Ponto de Entrada
